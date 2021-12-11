@@ -1,7 +1,6 @@
 # Chapter 2: Data models and Querying languages
 ### Disclaimer Note
-I will be focusing on the data models and not the languages used to access them, because the point
-of this repo is to focus on system design rather then language semantics. To read up on that, refer to the book.
+*I will be focusing on the data models and not the languages used to access them, because the point of this repo is to focus on system design rather then language semantics. To read up on that, refer to the book.*
 
 Data models are at the core of software problems, they determine how we think about the problem at hand
 
