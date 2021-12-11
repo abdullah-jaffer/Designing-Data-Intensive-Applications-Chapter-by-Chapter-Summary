@@ -1,4 +1,7 @@
 # Chapter 2: Data models and Querying languages
+### Disclaimer Note
+I will be focusing on the data models and not the languages used to access them, because the point
+of this repo is to focus on system design rather then language semantics. To read up on that, refer to the book.
 
 Data models are at the core of software problems, they determine how we think about the problem at hand
 
@@ -86,7 +89,7 @@ Where the object is a vertex, a subject can be a vertex or a primitive value
 - Semantic web is the idea of storing information about a website in machine readable form to create a database of everything on the 
 web.
 
-## Important note
+## Ending Note
 1.	Document databases target use cases where data comes in self-contained documents
 and relationships between one document and another are rare.
 2. Graph databases go in the opposite direction, targeting use cases where anything
