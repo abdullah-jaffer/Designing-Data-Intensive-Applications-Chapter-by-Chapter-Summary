@@ -1,4 +1,4 @@
-# Chapter 2: Data models and querying languages
+# Chapter 2: Data models and Querying languages
 
 Data models are at the core of software problems, they determine how we think about the problem at hand
 
