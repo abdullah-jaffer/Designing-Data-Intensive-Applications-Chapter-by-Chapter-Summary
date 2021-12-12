@@ -1,5 +1,5 @@
 # Chapter 3: Storage and Retrieval
-- We discussed how we as an application developers choose how to model, store and retrieve data, now we will look into how the storage engines internally manage storage and retrieval
+We discussed how we as an application developers choose how to model, store and retrieve data, now we will look into how the storage engines internally manage storage and retrieval
 ## Log Oriented Storage Engines Vs Page Oriented Storage Engineers like B Trees
 - key value pair is the simplest database, it has great write speeds, O (1), because it appends to the file, on the other hand, it has poor read speeds for large databases because it has to search the entire database linearly hence leading to an O (N) time complexity.
 This appending approach is used for logging in many databases.
